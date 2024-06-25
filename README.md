@@ -1,5 +1,5 @@
 
-# Data Analysis Project for AtliQ Hotels
+# Data Analysis Project for AtliQ Hotels 
 
 ## Project Overview
 This project involves an in-depth data analysis for AtliQ Hotels, a luxury hotel chain with operations in major Indian cities like Mumbai, Delhi, Hyderabad, and Bangalore. The analysis focuses on historical business data from May to August 2022, aiming to uncover key trends and insights to inform strategic decisions in the hospitality industry.
